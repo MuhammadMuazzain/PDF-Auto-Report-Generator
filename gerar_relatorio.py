@@ -74,3 +74,6 @@ def adicionar_layout_a_relatorio(caminho_relatorio, caminho_layout):
 
 if __name__ == '__main__':
     main(**CONFIG)
+
+if __name__ == '__main__':
+    main(**CONFIG)
