@@ -71,12 +71,13 @@ def adicionar_layout_a_relatorio(caminho_relatorio, caminho_layout):
     pdf.pages[0].merge_page(layout_pdf, over=True)
     pdf.write(caminho_relatorio)
 
+if __name__ == '__main__':
+    main(**CONFIG)
+
 
 if __name__ == '__main__':
     main(**CONFIG)
 
-if __name__ == '__main__':
-    main(**CONFIG)
 
 
 if __name__ == '__main__':
