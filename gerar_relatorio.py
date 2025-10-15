@@ -225,10 +225,3 @@ if __name__ == '__main__':
     main(**CONFIG)
 
 
-if __name__ == '__main__':
-    main(**CONFIG)
-
-
-if __name__ == '__main__':
-    main(**CONFIG)
-
